@@ -1,0 +1,8 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\obj\Debug\QuizApplication.csproj.AssemblyReference.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\obj\Debug\QuizApplication.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\obj\Debug\QuizApplication.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\bin\Debug\QuizApplication.exe.config
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\bin\Debug\QuizApplication.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\bin\Debug\QuizApplication.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\obj\Debug\QuizApplication.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\QuizApplication\obj\Debug\QuizApplication.pdb
