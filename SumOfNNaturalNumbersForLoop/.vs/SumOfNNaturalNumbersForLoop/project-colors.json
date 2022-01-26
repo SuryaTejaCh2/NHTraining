@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0b44cfd3-e122-4013-829a-b9dea7159b19": {
+      "ProjectGuid": "0b44cfd3-e122-4013-829a-b9dea7159b19",
+      "DisplayName": "SumOfNNaturalNumbersForLoop",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

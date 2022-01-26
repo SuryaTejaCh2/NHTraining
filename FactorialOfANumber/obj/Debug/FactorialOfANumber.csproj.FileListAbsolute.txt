@@ -1,0 +1,7 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\bin\Debug\FactorialOfANumber.exe.config
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\bin\Debug\FactorialOfANumber.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\bin\Debug\FactorialOfANumber.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\obj\Debug\FactorialOfANumber.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\obj\Debug\FactorialOfANumber.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\obj\Debug\FactorialOfANumber.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\FactorialOfANumber\obj\Debug\FactorialOfANumber.pdb
