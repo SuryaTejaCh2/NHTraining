@@ -1,0 +1,7 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\bin\Debug\ProductPriceGreater500.exe.config
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\bin\Debug\ProductPriceGreater500.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\bin\Debug\ProductPriceGreater500.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\obj\Debug\ProductPriceGreater500.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\obj\Debug\ProductPriceGreater500.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\obj\Debug\ProductPriceGreater500.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb2Morning\ProductPriceGreater500\obj\Debug\ProductPriceGreater500.pdb

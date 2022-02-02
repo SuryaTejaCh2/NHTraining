@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6e0806b2-f2f4-4999-8155-29cdae2bb9df": {
+      "ProjectGuid": "6e0806b2-f2f4-4999-8155-29cdae2bb9df",
+      "DisplayName": "ProductPriceGreater500",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
