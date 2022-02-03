@@ -18,7 +18,8 @@ namespace ImplicitAndExplicit
             //Explicit type casting
             double doubleValue = 5.7;
             float floatValue = Convert.ToSingle(doubleValue);
-            Console.WriteLine($"Double Value is {doubleValue} and Float Value is {floatValue}.");
+            float f = (float)doubleValue;
+            Console.WriteLine($"Double Value is {doubleValue} and Float Value is {floatValue}    {f}");
 
             Console.ReadLine();
         }
