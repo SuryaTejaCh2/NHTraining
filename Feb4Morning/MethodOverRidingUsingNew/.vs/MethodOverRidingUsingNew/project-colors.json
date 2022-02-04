@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "099a503c-cedc-4199-9422-33aa4fc71891": {
+      "ProjectGuid": "099a503c-cedc-4199-9422-33aa4fc71891",
+      "DisplayName": "MethodOverRidingUsingNew",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
