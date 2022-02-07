@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32cffd91-c3fe-4b0e-8c06-3377e52e181d": {
+      "ProjectGuid": "32cffd91-c3fe-4b0e-8c06-3377e52e181d",
+      "DisplayName": "PropWithPrivate",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
