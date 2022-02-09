@@ -1,0 +1,8 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\bin\Debug\ProductOfMatrix.exe.config
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\bin\Debug\ProductOfMatrix.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\bin\Debug\ProductOfMatrix.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\obj\Debug\ProductOfMatrix.csproj.AssemblyReference.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\obj\Debug\ProductOfMatrix.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\obj\Debug\ProductOfMatrix.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\obj\Debug\ProductOfMatrix.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb9\ProductOfMatrix\obj\Debug\ProductOfMatrix.pdb
