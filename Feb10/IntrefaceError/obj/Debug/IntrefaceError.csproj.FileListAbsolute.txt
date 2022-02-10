@@ -1,0 +1,2 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb10\IntrefaceError\obj\Debug\IntrefaceError.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb10\IntrefaceError\obj\Debug\IntrefaceError.csproj.CoreCompileInputs.cache
