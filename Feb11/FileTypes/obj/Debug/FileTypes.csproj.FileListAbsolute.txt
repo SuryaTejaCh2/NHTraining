@@ -1,0 +1,8 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\bin\Debug\FileTypes.exe.config
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\bin\Debug\FileTypes.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\bin\Debug\FileTypes.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\obj\Debug\FileTypes.csproj.AssemblyReference.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\obj\Debug\FileTypes.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\obj\Debug\FileTypes.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\obj\Debug\FileTypes.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\Feb11\FileTypes\obj\Debug\FileTypes.pdb
