@@ -1,0 +1,13 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Clint.exe.config
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Clint.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Clint.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Operations.dll
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Surya.dll
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Operations.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\bin\Debug\Surya.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\obj\Debug\Clint.csproj.AssemblyReference.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\obj\Debug\Clint.csproj.SuggestedBindingRedirects.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\obj\Debug\Clint.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\obj\Debug\Clint.csproj.CopyComplete
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\obj\Debug\Clint.exe
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\Clint\obj\Debug\Clint.pdb

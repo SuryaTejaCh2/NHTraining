@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "900174d1-d814-408d-9b4e-034e68ba08ea": {
+      "ProjectGuid": "900174d1-d814-408d-9b4e-034e68ba08ea",
+      "DisplayName": "Surya",
+      "ColorIndex": 0
+    },
+    "328db746-7485-4305-97d7-bbb6a766346e": {
+      "ProjectGuid": "328db746-7485-4305-97d7-bbb6a766346e",
+      "DisplayName": "Subject",
+      "ColorIndex": 1
+    },
+    "fb32ad9e-119e-41fb-8cfa-368e2b0a5953": {
+      "ProjectGuid": "fb32ad9e-119e-41fb-8cfa-368e2b0a5953",
+      "DisplayName": "MatheMatics",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
