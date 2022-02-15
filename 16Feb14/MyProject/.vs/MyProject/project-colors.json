@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c95aee18-795b-40a2-b864-44b523dff3f7": {
+      "ProjectGuid": "c95aee18-795b-40a2-b864-44b523dff3f7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 0
+    },
+    "900174d1-d814-408d-9b4e-034e68ba08ea": {
+      "ProjectGuid": "900174d1-d814-408d-9b4e-034e68ba08ea",
+      "DisplayName": "Surya",
+      "ColorIndex": 1
+    },
+    "b996c4ce-23f0-4f7c-8699-1f97f99e836a": {
+      "ProjectGuid": "b996c4ce-23f0-4f7c-8699-1f97f99e836a",
+      "DisplayName": "Public",
+      "ColorIndex": 2
+    },
+    "fe8beb97-303e-4422-9400-f787cd037127": {
+      "ProjectGuid": "fe8beb97-303e-4422-9400-f787cd037127",
+      "DisplayName": "Operations",
+      "ColorIndex": 3
+    },
+    "6cedf0db-9011-47f7-9310-9da75e99d087": {
+      "ProjectGuid": "6cedf0db-9011-47f7-9310-9da75e99d087",
+      "DisplayName": "Clint",
+      "ColorIndex": 4
+    },
+    "f66333aa-c9be-4431-9893-46c5989ef410": {
+      "ProjectGuid": "f66333aa-c9be-4431-9893-46c5989ef410",
+      "DisplayName": "ClintApp",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
