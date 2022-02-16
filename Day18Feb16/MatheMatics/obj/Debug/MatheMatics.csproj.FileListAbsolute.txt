@@ -1,0 +1,6 @@
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\MatheMatics\bin\Debug\MatheMatics.dll
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\MatheMatics\bin\Debug\MatheMatics.pdb
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\MatheMatics\obj\Debug\MatheMatics.csproj.AssemblyReference.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\MatheMatics\obj\Debug\MatheMatics.csproj.CoreCompileInputs.cache
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\MatheMatics\obj\Debug\MatheMatics.dll
+S:\NB\Assi\Day1 Morning assignment by Surya Teja Chandolu 24 Jan 2022\C#\16Feb14\MatheMatics\obj\Debug\MatheMatics.pdb

@@ -1,0 +1,12 @@
+<Products>
+    <Product Id = "01" Name = "Shoes" Brand = "Nike" />
+    <Product Id = "02" Name = "Cap" Brand = "Adidas" />
+    <Product Id = "03" Name = "Shirt" Brand = "Raymond" />
+    <Product Id = "04" Name = "Watch" Brand = "Titan" />
+    <Product Id = "05" Name = "Mobile" Brand = "Apple" />
+    <Product Id = "06" Name = "Laptop" Brand = "Microsoft" />
+    <Product Id = "07" Name = "Camera" Brand = "Canon" />
+    <Product Id = "08" Name = "Bike" Brand = "BMW" />
+    <Product Id = "09" Name = "Car" Brand = "Audi" />
+    <Product Id = "10" Name = "HeadPhones" Brand = "Sony" />
+</Products>

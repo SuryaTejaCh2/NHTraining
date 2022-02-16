@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d3b8edf7-dbc4-423c-8bff-5c13c13c7eed": {
+      "ProjectGuid": "d3b8edf7-dbc4-423c-8bff-5c13c13c7eed",
+      "DisplayName": "Application",
+      "ColorIndex": 0
+    },
+    "34d79645-e315-4b83-956e-abd1ea335cd1": {
+      "ProjectGuid": "34d79645-e315-4b83-956e-abd1ea335cd1",
+      "DisplayName": "MatheMatics",
+      "ColorIndex": 1
+    },
+    "6ccdc387-1083-47bb-a584-d41d3b132b57": {
+      "ProjectGuid": "6ccdc387-1083-47bb-a584-d41d3b132b57",
+      "DisplayName": "ConsoleApplication",
+      "ColorIndex": 2
+    },
+    "6ce60c12-4712-406e-8415-89bc09c6dc17": {
+      "ProjectGuid": "6ce60c12-4712-406e-8415-89bc09c6dc17",
+      "DisplayName": "WindowsApplication",
+      "ColorIndex": 3
+    },
+    "aa997173-bc29-4d7a-97cc-3cce8391fa87": {
+      "ProjectGuid": "aa997173-bc29-4d7a-97cc-3cce8391fa87",
+      "DisplayName": "MatheMaticsTests",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
