@@ -1,0 +1,52 @@
+[
+    {
+       "@Id": "01",
+       "@Name": "Shoes",
+       "@Brand": "Nike"
+    },
+    {
+       "@Id": "02",
+       "@Name": "Cap",
+       "@Brand": "Adidas"
+    },
+    {
+       "@Id": "03",
+       "@Name": "Shirt",
+       "@Brand": "Raymond"
+    },
+    {
+       "@Id": "04",
+       "@Name": "Watch",
+       "@Brand": "Titan"
+    },
+    {
+       "@Id": "05",
+       "@Name": "Mobile",
+       "@Brand": "Apple"
+    },
+    {
+       "@Id": "06",
+       "@Name": "Laptop",
+       "@Brand": "Microsoft"
+    },
+    {
+       "@Id": "07",
+       "@Name": "Camera",
+       "@Brand": "Canon"
+    },
+    {
+       "@Id": "08",
+       "@Name": "Bike",
+       "@Brand": "BMW"
+    },
+    {
+       "@Id": "09",
+       "@Name": "Car",
+       "@Brand": "Audi"
+    },
+    {
+       "@Id": "10",
+       "@Name": "HeadPhones",
+       "@Brand": "Sony"
+    }
+ ]
