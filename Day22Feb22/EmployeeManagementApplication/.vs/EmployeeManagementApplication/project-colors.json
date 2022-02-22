@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d64ab07-642e-4a58-b164-a94d5dccf3fd": {
+      "ProjectGuid": "0d64ab07-642e-4a58-b164-a94d5dccf3fd",
+      "DisplayName": "EmployeeManagementApplication",
+      "ColorIndex": 0
+    },
+    "3f8a9d27-cc65-4c35-9345-07ff6f8b66b7": {
+      "ProjectGuid": "3f8a9d27-cc65-4c35-9345-07ff6f8b66b7",
+      "DisplayName": "ClientApplication",
+      "ColorIndex": 1
+    },
+    "ca58f8a3-4fcc-4174-8426-e7503d283d8f": {
+      "ProjectGuid": "ca58f8a3-4fcc-4174-8426-e7503d283d8f",
+      "DisplayName": "BusinessLogicLayerLibrary",
+      "ColorIndex": 2
+    },
+    "22a63d4b-92aa-43bd-af1e-97529045e8e3": {
+      "ProjectGuid": "22a63d4b-92aa-43bd-af1e-97529045e8e3",
+      "DisplayName": "DataAccessLayerLibrary",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

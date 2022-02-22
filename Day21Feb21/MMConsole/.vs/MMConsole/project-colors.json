@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2549f1c7-2fce-4ee1-af0d-537a3ff3bf7c": {
+      "ProjectGuid": "2549f1c7-2fce-4ee1-af0d-537a3ff3bf7c",
+      "DisplayName": "MMConsole",
+      "ColorIndex": 0
+    },
+    "8ac2c368-7c9b-4bda-866a-331f4f68bd8b": {
+      "ProjectGuid": "8ac2c368-7c9b-4bda-866a-331f4f68bd8b",
+      "DisplayName": "MMWindows",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
